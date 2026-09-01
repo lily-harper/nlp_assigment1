@@ -1,0 +1,7 @@
+charset-normalizer==3.5.1
+lxml==6.1.2
+pillow==12.3.0
+pypdf==6.16.2
+python-docx==1.2.0
+reportlab==5.0.1
+typing_extensions==4.16.0
